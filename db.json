@@ -1,0 +1,16 @@
+{
+    "movies": [
+        {
+            "title": "Avatar 2",
+            "id": 1,
+            "release_year": 2022,
+            "genres": [
+                "Fantasy",
+                "Sci-Fi",
+                "Action"
+            ],
+            "description": "lorem ipsum",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNmM1NmY4N2QtNmVkOS00MjMyLWI5ZGUtYWYxMDRjY2MzNDdiXkEyXkFqcGdeQXVyMTAwMDAwMA@@._V1_.jpg"
+        }
+    ]
+}
