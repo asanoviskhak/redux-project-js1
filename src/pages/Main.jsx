@@ -16,7 +16,7 @@ const Main = () => {
 
   return (
     <div>
-      Main
+      Hello to Movie list!
       <button onClick={() => dispatch(logout())}>Logout</button>
     </div>
   );
